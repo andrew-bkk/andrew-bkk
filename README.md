@@ -4,7 +4,7 @@
 
 I work across the full infrastructure and application-delivery lifecycle: from operating systems and networks to CI/CD, Kubernetes, observability, security and production reliability.
 
-For the past 12 years, I have supported and evolved high-load production platforms and more than 50 business-critical services.
+I’m currently building [InfluenZZa!](https://influenzza.ai/), a SaaS workspace for influencer agencies to manage creator information, campaign offers, negotiated terms and contracts. I’m the sole active founder and developer of the product, building it through CMS Lab in Thailand. We’re preparing to launch the MVP, drawing on my 15+ years of experience in production infrastructure and technical operations.
 
 ## Engineering Areas
 
